@@ -19,10 +19,7 @@ Usage of HumenError for attacking targets without prior mutual consent is illega
 [1] ctrl+F Target circle image & and give path your target image
 [2] ctrl+F (Victim Name) give your victim username
 
-![](https://raw.githubusercontent.com/kiranks593/HumenError/master/sites/screenshots/image1.png)
-![](https://raw.githubusercontent.com/kiranks593/HumenError/master/sites/screenshots/image2.png)
-![](https://raw.githubusercontent.com/kiranks593/HumenError/master/sites/screenshots/image3.png)
-![](https://raw.githubusercontent.com/kiranks593/HumenError/master/sites/screenshots/image4.png)
+![](https://raw.githubusercontent.com/kiranks593/HumenError/master/sites/screenshots/image1.png
 ### Usage:
 ```
 git clone https://github.com/samadbloch/HumenError.git
